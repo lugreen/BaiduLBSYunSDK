@@ -21,12 +21,12 @@ namespace BaiduLBSYunSDK
     /// Baidu LBSYun SDK
     /// API: http://developer.baidu.com/map/
     /// author: Rex Zhang
-    /// company: 19Where.com
+    /// company: 19Where.com 
     /// </summary>
     public partial class BaiduLBSYunDriver
     {
         private const string API_DOMAIN = "api.map.baidu.com/geodata/v3";
-        private const string DL = "/";
+        private const string DL = "/"; 
         private readonly string _ak;
         private readonly string _sn;
         private readonly string _host;
